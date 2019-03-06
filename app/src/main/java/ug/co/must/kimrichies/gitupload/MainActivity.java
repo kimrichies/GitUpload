@@ -13,8 +13,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void scroll(View v1){
-        Intent intent = new Intent(this, ScrollingActivity.class);
-        startActivity(intent);
-    }
+//    public void scroll(View v1){
+//        Intent intent = new Intent(this, ScrollingActivity.class);
+//        startActivity(intent);
+//    }
 }
